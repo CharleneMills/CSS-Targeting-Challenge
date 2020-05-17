@@ -1,0 +1,41 @@
+h1{
+    margin-bottom: 40px;
+}
+
+.row{
+    margin: 40px 0px;
+}
+
+.arrow{
+    font-size: 22px;
+    font-weight: bold;
+    color: red;
+}
+
+.step-card{
+    color: black;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.step-card .card-body{
+    padding: 20px;
+    color: black;
+}
+
+.card h2{
+    color: black;
+}
+
+.card-footer{
+    margin: 20px -20px -20px -20px;
+    background-color: #333;
+}
+
+.portfolio-item{
+    color: black;
+}
+
+.step-card ul li{
+    margin-bottom: 20px;
+}
